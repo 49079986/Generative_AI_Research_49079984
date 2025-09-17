@@ -5,20 +5,27 @@
 
 This study aims to explore the advantages and disadvantages of generative artificial intelligence (Generative AI) tools in academic, business, and daily life contexts. Through literature reviews, surveys, and interview analyses, the study finds that generative AI offers significant benefits in improving work efficiency, content creation, and data analysis. However, potential risks include issues with information accuracy, copyright and ethical concerns, and a possible over-reliance on human creativity. The study suggests that clear guidelines and regulations should be established when using generative AI to balance technological innovation with social responsibility.
 
-**Here are some materials that I have collected and organized**
+## 📂 Repository Structure
 
-[Drafts and Reports](./Generative_AI_Research/Drafts%20and%20Reports)
+- **Drafts/**  [Drafts and Reports](./Generative_AI_Research/Drafts%20and%20Reports)
+  Early working versions of research notes, preliminary outlines, and initial ideas.
 
-[Final Submition](./Generative_AI_Research/Final%20Submition)
+- **Interviews/**  [Interviews](./Generative_AI_Research/Interviews)
+  Transcripts, notes, and coded data from qualitative interviews with participants.
 
-[graph](./Generative_AI_Research/graph)
+- **Final Submission/**  [Final Submition](./Generative_AI_Research/Final%20Submition)
+  The completed research paper/report prepared for submission.
 
-[Interviews](./Generative_AI_Research/Interviews)
+- **Literature Review documents/**  [Literature Review documents](./Generative_AI_Research/Literature%20Review%20documents)
+  Academic references, summaries, and critical analysis of existing studies on Generative AI.
 
-[Literature Review documents](./Generative_AI_Research/Literature%20Review%20documents)
+- **Qualitative Analysis/**  [Qualitative Analysis](./Generative_AI_Research/Qualitative%20Analysis/)
+  Thematic coding and analysis of interview data, identifying key patterns and insights.
 
-[Qualitative Analysis](./Generative_AI_Research/Qualitative%20Analysis/)
+- **Quantitative Analysis/**  [Quantitative Analysis](./Generative_AI_Research/Quantitative%20Analysis)
+  Statistical evaluation of survey responses, including charts, descriptive statistics, and inferential testing.
 
-[Quantitative Analysis](./Generative_AI_Research/Quantitative%20Analysis)
+- **Survey/**  [Survey](./Generative_AI_Research/Survey)
+  Survey design, raw responses, and processed datasets.
 
-[Survey](./Generative_AI_Research/Survey)
+- **Graph** [graph](./Generative_AI_Research/graph)
