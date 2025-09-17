@@ -7,12 +7,18 @@ This study aims to explore the advantages and disadvantages of generative artifi
 
 **Here are some materials that I have collected and organized**
 
-[1.Additional Materials](./Generative_AI_Research/Additional%20Materials)
+[Drafts and Reports](./Generative_AI_Research/Drafts%20and%20Reports)
 
-[2. Drafts and Reports](./Generative_AI_Research/Drafts%20and%20Reports)
+[Final Submition](./Generative_AI_Research/Final%20Submition)
 
-[3. Literature Review documents](./Generative_AI_Research/Literature%20Review%20documents)
+[graph](./Generative_AI_Research/graph)
 
-[4. Qualitative Analysis](./Generative_AI_Research/Qualitative%20Analysis)
+[Interviews](./Generative_AI_Research/Interviews)
 
-[5. Quantitative Analysis](./Generative_AI_Research/Quantitative%20Analysis)
+[Literature Review documents](./Generative_AI_Research/Literature%20Review%20documents)
+
+[Qualitative Analysis](./Generative_AI_Research/Qualitative%20Analysis/)
+
+[Quantitative Analysis](./Generative_AI_Research/Quantitative%20Analysis)
+
+[Survey](./Generative_AI_Research/Quantitative%20Analysis/)
