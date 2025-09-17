@@ -21,4 +21,4 @@ This study aims to explore the advantages and disadvantages of generative artifi
 
 [Quantitative Analysis](./Generative_AI_Research/Quantitative%20Analysis)
 
-[Survey](./Generative_AI_Research/Quantitative%20Analysis/)
+[Survey](./Generative_AI_Research/Survey)
